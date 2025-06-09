@@ -5,3 +5,7 @@ Visualizador em pygame para os seguintes algoritmos de ordenação: LSD radix, c
 Inclui botões para alterar o tamanho da lista ou o FPS
 
 Também há uma versão para console com os algoritmos mais "puros"
+
+Para instalar os módulos necessários:
+```bash
+pip install -r requirements.txt
