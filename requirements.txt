@@ -1,7 +1,2 @@
 pygame
-random
-sys
 numpy
-time
-queue
-threading
